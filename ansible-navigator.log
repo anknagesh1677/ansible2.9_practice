@@ -1,0 +1,5 @@
+2023-04-29T04:01:14.794154+00:00 WARNING 'ansible_navigator.image_manager.puller._log_message' Image inspection failed, image assumed to be corrupted or missing
+2023-04-29T04:01:14.795432+00:00 WARNING 'ansible_navigator.image_manager.puller._log_message' stdout: []
+
+2023-04-29T04:01:14.795483+00:00 WARNING 'ansible_navigator.image_manager.puller._log_message' stderr: Error: inspecting object: ghcr.io/ansible/creator-ee:v0.17.0: image not known
+
